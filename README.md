@@ -78,51 +78,56 @@ Password		| Varchar
 </br>
 </br>
 
+
 * Add new Book
 
-![picture alt](https://github.com/git-akshat/Library-Management/blob/master/screenshots/add_book.png)
+![add_book](https://github.com/lrkaushal/library_management_system/assets/73939193/3c25ffc6-58b9-4317-a894-050c3944b1f0)
 
 </br>
 </br>
 
 * Search Book
 
-![picture alt](https://github.com/git-akshat/Library-Management/blob/master/screenshots/search_book.png)
+![search_book](https://github.com/lrkaushal/library_management_system/assets/73939193/5f7cf4f0-0f1b-46e2-9ac2-e9d96a0497a9)
+
 
 </br>
 </br>
 
 * List all Books
 
-![picture alt](https://github.com/git-akshat/Library-Management/blob/master/screenshots/list_all_books.png)
+![list_all_books](https://github.com/lrkaushal/library_management_system/assets/73939193/03127f74-600b-4f9e-b4e0-a80cbdd8dbac)
+
 
 </br>
 </br>
 
 * Issue Book-1
 
-![picture alt](https://github.com/git-akshat/Library-Management/blob/master/screenshots/issue_book.png)
+![issue_book](https://github.com/lrkaushal/library_management_system/assets/73939193/f4580489-a667-41af-bdaa-6bafceb3bc9a)
+
 
 </br>
 </br>
 
 * Issue Book-2
 
-![picture alt](https://github.com/git-akshat/Library-Management/blob/master/screenshots/issue_book_2.png)
+
 
 </br>
 </br>
 
 * List Issued Books
 
-![picture alt](https://github.com/git-akshat/Library-Management/blob/master/screenshots/list_issued_books.png)
+
 
 </br>
 </br>
 
 * List Books to be returned on current Date
 
-![picture alt](https://github.com/git-akshat/Library-Management/blob/master/screenshots/book_to_return.png)
+![book_to_return](https://github.com/lrkaushal/library_management_system/assets/73939193/58d938f5-b040-46fe-9c3d-9b607c5353d3)
+
 
 </br>
 </br>
@@ -131,12 +136,12 @@ Password		| Varchar
 
 *	Programming language → java 8
 *	Netbeans IDE
-*	MariaDB(MySqL) [database](https://github.com/git-akshat/Library-Management/blob/master/Database_Query/bookDB.txt) 
+*	MariaDB(MySqL)  
 
 ### Reference Link: 
 [How to create a cardLayout with netbeans GUI Builder](https://stackoverflow.com/questions/21898425/how-to-use-cardlayout-with-netbeans-gui-builder)
 
 ### Demo
-* Install MariaDB and follow the steps given in [this](https://github.com/git-akshat/Library-Management/blob/master/Database_Query/bookDB.txt) file.
+* Install MariaDB and follow the steps given in [this] file.
 * Now download this project and go to [dist folder](https://github.com/git-akshat/Library-Management/tree/master/dist)
 * Double click on LibraryManagement.jar and here you go :)
