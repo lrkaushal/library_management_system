@@ -72,7 +72,8 @@ Password		| Varchar
 
 * Login Screen
 
-![login1](https://github.com/lrkaushal/library_management_system/assets/73939193/4d85e67e-cb62-4880-9dcf-d215fd6ca55a)
+![login1](https://github.com/lrkaushal/library_management_system/assets/73939193/ad1401f2-1b14-4fe4-8e45-8012d6ee7a7c)
+
 
 </br>
 </br>
