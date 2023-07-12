@@ -72,7 +72,7 @@ Password		| Varchar
 
 * Login Screen
 
-![picture alt](https://github.com/git-akshat/Library-Management/blob/master/screenshots/login1.png)
+![login1](https://github.com/lrkaushal/library_management_system/assets/73939193/4d85e67e-cb62-4880-9dcf-d215fd6ca55a)
 
 </br>
 </br>
