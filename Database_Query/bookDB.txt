@@ -49,5 +49,5 @@ create table admin
 	password varchar(20)
 );
 
-insert into admin values('akshat','123456');
+insert into admin values('kaushal','123456');
 #6 we are all set.
